@@ -23,5 +23,6 @@ class Car:
 
 
 if __name__ == '__main__':
-    print("penis butthole farts")
+    print("penis butthole farts") 
     car = Car("sedan", 5000, "red")
+    car.print_car_specs() #dat
