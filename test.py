@@ -2,6 +2,7 @@ class Engine:
     def __init__(self, engine) -> None:
         self.engine = engine
         self.nothing = None
+        self.test = []
     def change_engine(self, engine):
         self.engine = engine
 
